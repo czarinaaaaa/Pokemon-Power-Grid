@@ -52,7 +52,7 @@
 
 \## Example Output
 
-!\[Pokémon Stats Visualization](Pokémon Subplot.png)
+!\[Pokémon Stats Visualization](Pokemon Subplot.png)
 
 
 
