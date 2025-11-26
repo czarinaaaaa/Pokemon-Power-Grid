@@ -34,7 +34,7 @@
 
 \## How to Run
 
-1. Clone the repository:
+1\. Clone the repository:
 
  	git clone https://github.com/czarinaaaaa/Pokemon-Power-Grid
 
