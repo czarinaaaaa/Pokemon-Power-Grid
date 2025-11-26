@@ -52,7 +52,7 @@
 
 \## Example Output
 
-!\[Pokémon Stats Visualization](Pokemon Subplot.png)
+!\[Pokémon Stats Visualization](https://github.com/czarinaaaaa/Pokemon-Power-Grid/blob/main/Pokemon%20Subplot.png)
 
 
 
