@@ -36,7 +36,7 @@
 
 1. Clone the repository:
 
- 	git clone https://github.com/
+ 	git clone https://github.com/czarinaaaaa/Pokemon-Power-Grid
 
 2\. Navigate into the folder cd pokemon\_project
 
